@@ -8,6 +8,7 @@ This project simulates a secure, password-protected locking system using an Ardu
 - [Components Used](#components-used)
 - [Circuit Diagram](#circuit-diagram)
 - [Code](#code)
+- [Tinkercad Model](#tinkercad-model)
 - [Future Enhancements](#future-enhancements)
 - [Applications](#applications)
 - [Contact](#contact)
@@ -35,6 +36,9 @@ The code for this project is in the `mpmc_project_code.ino` file. It includes:
 - Password input and verification logic.
 - Servo motor control for locking and unlocking.
 - Feedback display and sound cues.
+
+## Tinkercad Model
+[View the working model on Tinkercad]([your-tinkercad-link](https://www.tinkercad.com/things/c1TV7XWGPtN-password-based-lock-system-using-arduino?sharecode=BAOVYjgSVy7Q-7IYpapEbHUVDGulkOeWNhRU7VrGPME))
 
 ## Future Enhancements
 - **Biometric Integration**: Adding fingerprint or facial recognition.
