@@ -51,5 +51,5 @@ The code for this project is in the `mpmc_project_code.ino` file. It includes:
 skygriffin20.contact@gmail.com
 
 ## References
-- [Password Based Door Lock Security System Using Arduino & Keypad](https://how2electronics.com/password-based-security-system-arduino-keypad/)
-- [YouTube Tutorial](https://youtu.be/0LUMOex8zSk?si=zI8aL4m6F0YZxNI7)
+- [How2Electronics](https://how2electronics.com/password-based-security-system-arduino-keypad/)
+- [YouTube - svsembedded](https://youtu.be/0LUMOex8zSk?si=zI8aL4m6F0YZxNI7)
