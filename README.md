@@ -38,7 +38,7 @@ The code for this project is in the `mpmc_project_code.ino` file. It includes:
 - Feedback display and sound cues.
 
 ## Tinkercad Model
-[View the working model on Tinkercad]([your-tinkercad-link](https://www.tinkercad.com/things/c1TV7XWGPtN-password-based-lock-system-using-arduino?sharecode=BAOVYjgSVy7Q-7IYpapEbHUVDGulkOeWNhRU7VrGPME )
+[View the working model on Tinkercad]((https://www.tinkercad.com/things/c1TV7XWGPtN-password-based-lock-system-using-arduino?sharecode=BAOVYjgSVy7Q-7IYpapEbHUVDGulkOeWNhRU7VrGPME)
 
 ## Future Enhancements
 - **Biometric Integration**: Adding fingerprint or facial recognition.
