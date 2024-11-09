@@ -29,6 +29,8 @@ This project simulates a secure, password-protected locking system using an Ardu
 
 ## Circuit Diagram
 Refer to the attached circuit diagram for wiring details, including connections between the Arduino, keypad, servo, LCD, and buzzer.
+![image](https://github.com/user-attachments/assets/1c30f3eb-ee54-457a-b4a5-51e91ed7ac9d)
+
 
 ## Code
 The code for this project is in the `mpmc_project_code.ino` file. It includes:
